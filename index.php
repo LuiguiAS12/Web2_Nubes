@@ -8,6 +8,8 @@
     <meta name="author" content="">
     <link rel="icon" href="/docs/4.0/assets/img/favicons/favicon.ico">
 
+  
+
     
 
     <link rel="canonical" href="https://getbootstrap.com/docs/4.0/examples/pricing/">
@@ -25,6 +27,7 @@
         <a class="p-2 text-dark" href="#">Registrar</a>
         <a class="p-2 text-dark" href="#">Actualizar</a>
         <a class="p-2 text-dark" href="#">Eliminar</a>
+        <a class="p-2 text-dark" href="listar.php">Listar</a>
       </nav>
     </div>
 
