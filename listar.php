@@ -28,7 +28,7 @@
 
       
        </tr>
-       <?php while($fila - pg_fetch_assoc($resultado)) { ?>
+       <?php while($fila = pg_fetch_assoc($resultado)) { ?>
            <tr>
                <td><?php echo $fila['idpersona']; ?></td>
                <td><?php echo $fila['documento']; ?></td>
